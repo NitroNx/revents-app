@@ -8,7 +8,7 @@ function EventListItem({event}) {
             <Segment>
                 <Item.Group>
                     <Item>
-                        <Item.Image circular size="tiny" src="/assets/images/user-icon.svg" />
+                        <Item.Image circular size="tiny" src="/assets/images/icon-user.svg" />
                         <Item.Content>
                             <Item.Header content={event.title} />
                             <Item.Description>

@@ -4,7 +4,7 @@ import {Image, List} from "semantic-ui-react";
 function EventListAttendee() {
     return (
         <List.Item>
-            <Image circular size="mini" src="/assets/images/user-icon.svg" />
+            <Image circular size="mini" src="/assets/images/icon-user.svg" />
         </List.Item>
     );
 };
